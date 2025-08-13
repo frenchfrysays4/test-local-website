@@ -1,0 +1,2 @@
+#ignore all branches except main
+branches/*
